@@ -1,2 +1,2 @@
 # 이력서
-<img src=testImg.png width=150 height=150>
+<img src=testImg.jpg width=150 height=150>
