@@ -30,7 +30,8 @@
 - React
 - Spring boot
 - PostgreSQL
-<br/>배우고 싶은 것
+
+배우고 싶은 것<br/>
 - Kotlin
 
 ### 프로젝트
