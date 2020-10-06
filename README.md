@@ -1,2 +1,2 @@
 # 이력서
-oss_자기소개문서작성(마크다운언어실습)
+<img src=testImg.png width=150 height=150>
