@@ -31,6 +31,7 @@
 - React
 - Spring Boot
 - PostgreSQL
+- Linux
 
 배우고 싶은 것<br/>
 - Kotlin
