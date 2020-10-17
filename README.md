@@ -29,8 +29,8 @@
 ### TODO
 현재 배우는 중
 - React
-- Spring Boot
-- PostgreSQL
+- Node.js
+- MySQL
 - Linux
 
 배우고 싶은 것<br/>
@@ -47,5 +47,5 @@
 ### 회사 업무 관리시스템 (현재 진행 중) 
 - 소개: 회사를 효율적으로 관리하기 위한 웹 시스템 개발
 - 대학교 프로젝트, **일본기업 씨밀레**와 협력 중이며 팀원 4명 중 팀장으로 프로젝트 진행 중
-- 사용 기술 : HTML/CSS/JS, React, Spring Boot, PostgreSQL
+- 사용 기술 : HTML/CSS/JS, React, Node.js, MySQL
 - 기간 : 2020.09 ~ 2020.12
