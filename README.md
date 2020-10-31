@@ -30,11 +30,12 @@
 현재 배우는 중
 - React
 - Node.js
-- MySQL
+- MySQL(상세하게)
 - Linux
+- Docker
 
 배우고 싶은 것<br/>
-- Kotlin
+- TypeScript
 - MongoDB
 
 ## 프로젝트
