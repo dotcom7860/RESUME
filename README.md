@@ -16,10 +16,8 @@
 
 ## 사용 기술
 ### 프로그래밍 언어
-- java
-- javaScript
-- C, C++, C#(Unity)
-- python
+- java, C(C++, C#), python : 여러 언어를 사용해보고 싶어서 기본 구조까지 사용
+- javaScript : 계속 배우는 중이며, 해당 언어를 통해 프로젝트 진행 중
 
 ### Process
 - 모니터링 - Google Analytics
@@ -37,6 +35,7 @@
 배우고 싶은 것<br/>
 - TypeScript
 - MongoDB
+- Travis CI
 
 ## 프로젝트
 ### 헬스 소개 사이트
