@@ -38,8 +38,9 @@
 
 배우고 싶은 것<br/>
 - TypeScript
-- MongoDB
+- MongoDB, mariaDB
 - Travis CI
+- Java Spring Framework
 
 ## 프로젝트
 ### 헬스 소개 사이트
