@@ -38,7 +38,7 @@
 
 배우고 싶은 것<br/>
 - TypeScript
-- MongoDB, mariaDB
+- PostgreSQL, MongoDB, mariaDB 
 - Travis CI
 - Java Spring Framework
 
