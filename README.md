@@ -32,7 +32,7 @@
 현재 배우는 중
 - React
 - Node.js
-- MySQL(상세하게)
+- MySQL
 - Linux
 - Docker
 
