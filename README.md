@@ -36,7 +36,7 @@
 - Linux
 - Docker
 
-배우고 싶은 것<br/>
+배울려고 하는 것<br/>
 - TypeScript
 - PostgreSQL, MongoDB, mariaDB 
 - Travis CI
