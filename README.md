@@ -42,50 +42,33 @@
 - 기간 : 19.09 - 19.12
 - 구성원 : 김경민(팀장), 신종현
 - 소개 : 헬스 운동 및 헬스 용품 소개
-- 사용 기술 : Java, MySQL
+* 사용 기술 
+  + Front-End : HTML/CSS, JavaScript
+  + Back-End : Java, JSP, Apache Tomcat
+  + DB : MySQL
+  + CodeEditor : Atom, Eclipse
+- 대학교 3학년 웹 프로그래밍 프로젝트로 2명이서 진행
+- HTML/CSS/JS의 기초적인 부분을 배워 Front-End를 구성하고, Java를 활용하여 회원가입, 로그인, 댓글, 게시판 기능을 개발
+- 개발 진행이 너무 늦어 원인을 분석해보니 팀원과의 협업이 제대로 이루어지지 않았습니다. 
 
+  이를 해결하기위해 팀원과 저녁을 먹어가며, 일정과 개발 구조, 협업 방식 등을 회의하였고 무사히 개발을 마칠 수 있었습니다.
+
+## Skill.
+- Front-End : HTML/CSS, JavaScript, React
+- Back-End : Node.js
+- DataBase : MySQL
+- 모니터링 : Google Analytics[수료증](https://skillshop.exceedlms.com/student/award/57116848)
+- 이슈관리 : GitHub
+- 버전관리 : Git
 
 ## Education.
-- 한림대학교 컴퓨터공학과 4학년 재학 중 (2021 졸업예정)
+- 한림대학교 컴퓨터공학과 4학년 재학 중 (2021.02 졸업예정)
 
-## 사용 기술
-### 프로그래밍 언어
-* java, C(C++, C#), python  
-  + 여러 언어를 사용해보고 싶어 기본 구조까지 배우고 <br/>대학교 프로젝트를 만들어봄(계산기, 사진 속 얼굴 미소 판독, 모바일 VR게임 등)
-* javaScript
-  + 계속 배우는 중이며, 해당 언어를 통해 프로젝트 진행 중
-
-<!--### Frontend-->
-<!--### Server-->
-### Process
-- 모니터링 - Google Analytics
-- 이슈관리 - Github
-- 버전관리 - Git
-
-### TODO
-현재 배우는 중
-- React
-- Node.js
-- MySQL
-- Linux
-- Docker
-
-배울려고 하는 것<br/>
+### TodoList
+```
+배움을 멈추지 않을 것입니다.
+```
 - TypeScript
 - PostgreSQL, MongoDB, mariaDB 
-- Travis CI
 - Java Spring Framework
-
-## 프로젝트
-### 헬스 소개 사이트
-- 소개 : 헬스 동작 및 물품들을 모아놓은 사이트
-- 대학교 3학년 웹 프로그래밍 프로젝트, 2명이서 개발
-- 사용 기술 : HTML/CSS/JS, Java, MySQL
-- 로그인, 댓글, 새로운 글 기능 구현
-- 기간 : 2019.09 ~ 2019.12
-
-### 회사 업무 관리시스템 (현재 진행 중) 
-- 소개: 회사를 효율적으로 관리하기 위한 웹 시스템 개발
-- 대학교 프로젝트, **일본기업 씨밀레**와 협력 중이며 팀원 4명 중 팀장으로 프로젝트 진행 중
-- 사용 기술 : HTML/CSS/JS, React, Node.js, MySQL
-- 기간 : 2020.09 ~ 2020.12
+- Travis CI
