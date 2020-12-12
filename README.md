@@ -57,7 +57,7 @@
 - Front-End : HTML/CSS, JavaScript, React
 - Back-End : Node.js
 - DataBase : MySQL
-- 모니터링 : Google Analytics[수료증](https://skillshop.exceedlms.com/student/award/57116848)
+- 모니터링 : Google Analytics[(수료증)](https://skillshop.exceedlms.com/student/award/57116848)
 - 이슈관리 : GitHub
 - 버전관리 : Git
 
