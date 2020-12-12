@@ -33,7 +33,7 @@
 - 일본의 IT개발 업체인 SIMILE 회사 및 IT FREE와 공동으로 진행
 - 대학교 프로젝트에서 처음 사용해보는 기술이므로 FE와 BE의 대부분을 개발
 - Axios와 DB를 활용하여 CRUD를 구현할 줄 알며 직원관리, 휴일설정, 공통코드 기능 등을 개발
-- 개발 기간에는 매일 저녁에 googleMeet 이용하여 희의을 진행
+- 개발 기간동안 매일 저녁에 googleMeet 이용하여 희의을 진행
 - Git과 GitHub를 사용하여 소스 관리 및 공유
 - 대학교 캡스톤 디자인 경진대회에서 동상 수상
 - 프로젝트 링크 : [github.com/blackfourteen](https://github.com/blackfourteen2014/CD_Project)
