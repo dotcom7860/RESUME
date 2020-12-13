@@ -53,7 +53,7 @@
 
   이를 해결하기 위해 팀원을 집에 초대하여 저녁을 먹어가며, 일정과 개발 구조, 협업 방식 등을 회의하였고 무사히 개발을 마칠 수 있었습니다.
   
-- 결과 보고서 링크 : https://github.com/kyeongmin-log/ETC/tree/main/3%ED%95%99%EB%85%84_%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C
+- 결과 보고서 링크 : [3학년 웹프로그래밍 프로젝트 결과 보고서](https://github.com/kyeongmin-log/ETC/tree/main/3%ED%95%99%EB%85%84_%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C)
 
 ## Skill.
 - Front-End : HTML/CSS, JavaScript, React
