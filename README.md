@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/kyeongmin-log/https://githubcom/kyeongmin-log/RESUME.svg)](http://hits.dwyl.com/kyeongmin-log/https://githubcom/kyeongmin-log/RESUME)
+
 # 안녕하세요. 신입 개발자 김경민입니다.
 
 <img src='./images/profile.jpg' width="200" height="200" />
